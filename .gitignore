@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
 data_cleansed/
 data_raw/
-model_variables/
+model_building_variables/
+model/

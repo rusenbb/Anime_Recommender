@@ -60,9 +60,9 @@ I used both collaborative and content based approach for implementing this recom
 
 I evaluated the performance of my recommender system using several metrics, including RMSE, MAE, and MSE. On the test set, I achieved the following results for ratings between 0 to 1:
 
-* RMSE: 0.82
-* MAE: 0.76
-* MSE: 0.78
+* RMSE: 0.289
+* MAE: 0.213
+* MSE: 0.084
 
 ## Conclusion
 
